@@ -1,0 +1,8 @@
+/*nameのidを持つ値を青く表示する*/
+#name{
+    color: blue;
+}
+/*nameのidを持つ値を緑に表示する*/
+#result{
+    color: green;
+}
